@@ -1,0 +1,10 @@
+.Chat-Control {
+    padding: 4px 8px;
+
+    border: 1px solid black;
+    border-radius: 2px;
+}
+
+.Chat-Control_error {
+    border-color: crimson;
+}
